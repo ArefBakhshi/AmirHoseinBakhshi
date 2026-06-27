@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/WFhWcgKj2Ibus/giphy.gif" width="50" alt="Wave GIF"/>
 </p>
-<h1 align="center">Hi, I'm Aref Bakhshi!</h1>
+<h1 align="center">Hi, I'm Amir Hosein Bakhshi!</h1>
 <h3 align="center">
   🚀 .NET Backend & Systems Engineer | 🔎 Data & Forensic Analyst | ⚙️ Automation Specialist
 </h3>
